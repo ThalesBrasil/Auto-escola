@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #F5DD1D;
+    background-color:#f5dc1dd7;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +39,7 @@ label {
     display: block;
     margin-bottom: 8px;
     text-align: left;
-    font-size: 14px;
+    font-size: 10px;
     color: #333;
 }
 
